@@ -1,0 +1,111 @@
+header a{
+    text-transform: none;
+    text-decoration: none;
+    color: black;
+
+
+}
+header ul{
+    list-style: none;
+}
+
+header ul li{
+    margin-left: 10px;
+
+}
+
+.presentation{
+    color: white;
+    background-color: rgb(46, 44, 44);
+    justify-content: center;
+    display: flex;
+    border-radius: 5px;
+    height: 50px;
+    margin-top: 50px;
+    align-items: center;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+body{
+    background-color: #4e4d4e;
+}
+
+.container{
+    color: white;
+}
+
+.photos{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.texte{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.compétences{
+    margin-top: 50px;
+}
+
+.photobt{
+    width: 225px;
+    margin-top: 25px;
+}
+
+.HTML5{
+    margin-top: 100px;
+}
+
+.JavaScript{
+    margin-top: 150px;
+}
+
+.Bootstrap{
+    margin-top: 100px;
+}
+
+.CSS{
+    margin-top: 150px;
+}
+
+.projet{
+    margin-bottom: 25px;
+}
+
+.centrer{
+    justify-content: center;
+    display: flex; 
+
+}
+
+.titre{
+    background-color: rgb(44, 42, 42);
+    border-radius: 5px;
+    font-size: 25px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    margin-bottom: 25px;
+    margin-top: 50px;
+}
+
+.form2{
+    text-align: center;
+}
+
+.form{
+    align-content: center;
+}
+
+.sendmsg{
+    justify-content: center;
+    display: flex;
+}
+
+.CV{
+    justify-content: center;
+    display: flex;
+}
